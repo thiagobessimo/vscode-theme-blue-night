@@ -1,0 +1,46 @@
+{
+  "name": "vsc-blue-night",
+  "displayName": "Blue Night",
+  "description": "A minimalist theme for Visual Studio Code",
+  "version": "2.0.0",
+  "publisher": "thiagobessimo",
+  "author": "Thiago P. B. Bessimo",
+  "engines": {
+    "vscode": ">=1.36.0"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#001325",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thiagobessimo/vsc-blue-night-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Blue Night",
+    "Contrast Theme",
+    "Dark Theme",
+    "Cool Theme",
+    "Minimal",
+    "Minimalist",
+    "Minimalism"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blue-Night.json"
+      },
+      {
+        "label": "Blue Teste",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blue-Teste.json"
+      }
+    ]
+  }
+}

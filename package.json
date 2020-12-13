@@ -1,7 +1,7 @@
 {
   "name": "vsc-blue-night",
   "displayName": "Blue Night",
-  "description": "A minimalist theme for Visual Studio Code",
+  "description": "A brutalist theme for Visual Studio Code",
   "version": "2.0.0",
   "publisher": "thiagobessimo",
   "author": "Thiago P. B. Bessimo",
@@ -25,7 +25,8 @@
     "Contrast Theme",
     "Dark Theme",
     "Cool Theme",
-    "Minimal",
+    "Brutalism",
+    "Brutalist",
     "Minimalist",
     "Minimalism"
   ],

@@ -1,8 +1,11 @@
+#95bf40
+#edc567
+
 Transparent
 #00000000
 
 Whites
-#fdfdfd - white 1
+#f1f2f3 - white 1
 #c1c1c1 - grey 1
 #878787 - grey 2
 #535353 - grey 3
@@ -11,12 +14,8 @@ Blacks
 #000000 - black 1
 #000510 - black 2
 #001020 - black 3
-#001530 - black 4
-#002040 - black 5
-#002550 - black 6
-#003060 - black 7
-#003570 - black 8
-#004080 - black 9
+#002040 - black 4
+#004080 - black 5
 
 Blues
 #2000ff - blue 1
@@ -34,5 +33,3 @@ Others
 #2080ff - blue 5
 #4444ff - purple
 #ff60dd - pink
-
-git remote add blue-night https://github.com/thiagobessimo/blue-night.git

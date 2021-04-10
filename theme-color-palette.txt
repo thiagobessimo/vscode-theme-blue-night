@@ -1,35 +1,35 @@
-#95bf40
-#edc567
+Test
+#fff111
+#ff1111
+#11ff11
 
 Transparent
 #00000000
 
 Whites
 #f1f2f3 - white 1
-#c1c1c1 - grey 1
-#878787 - grey 2
-#535353 - grey 3
+#c1c2c3 - grey 1
+#818283 - grey 2
+#515253 - grey 3
 
 Blacks
 #000000 - black 1
 #000510 - black 2
-#001020 - black 3
-#002040 - black 4
-#004080 - black 5
+#001133 - black 3
+#00194d - black 4
+#002266 - black 5
 
-Blues
-#2000ff - blue 1
-#2020ff - blue 2
-#2040ff - blue 3
-#2060ff - blue 4
-#2080ff - blue 5
-#4080ff - blue 6
+Blue and Red
+#2080ff - blue
+#ed4747 - red
+
 
 Others
-#ff4040 - red
+#cc3333 - red
 #ff8040 - orange
 #ffc500 - yellow
 #08ddaa - green
-#2080ff - blue 5
-#4444ff - purple
+#2060ff - blue
+#6040ff - purple
 #ff60dd - pink
+#ff5080 - pink
